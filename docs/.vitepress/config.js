@@ -10,7 +10,8 @@ const blogiSidebar = [
     {text: "Kiire Looming", link:"/blogi/03_kiirelooming"},
     {text: "Referentspildid piltide järgi kujundamine", link:"/blogi/04_rfpildid"},
     {text: "Referentspildid piltide järgi kujundamine 2", link:"/blogi/05_rfpildid2"},
-    {text: "Referentspildid piltide järgi kujundamine 3", link:"/blogi/06_rfpildid3"}
+    {text: "Referentspildid piltide järgi kujundamine 3", link:"/blogi/06_rfpildid3"},
+    {text: "Negatiivne ruum", link:"/blogi/07_negatruum"}
 ];
 
 module.exports = {
@@ -33,7 +34,8 @@ module.exports = {
                 "/blogi/03_kiirelooming/":blogiSidebar,
                 "/blogi/04_rfpildid/":blogiSidebar,
                 "/blogi/05_rfpildid2/":blogiSidebar,
-                "/blogi/06_rfpildid3/":blogiSidebar
+                "/blogi/06_rfpildid3/":blogiSidebar,
+                "/blogi/07_negatruum/":blogiSidebar
             }
       },
     }

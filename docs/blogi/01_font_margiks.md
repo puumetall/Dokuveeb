@@ -1,4 +1,4 @@
 # Tunniteema - fondi oma käe järgi muutmine.
 Oi
-![Esimene](images/fontmargiks1.png)
-![Teine](images/fontmargiks2.png)
+![Esimene](./images/01.01.png)
+![Teine](./images/01.02.png)

@@ -1,4 +1,4 @@
 # Tunniteema - referentspiltide järgi kujundamine 3
 
-![Esimene](images/06.01.png)
-![Teine](images/06.02.png)
+![Esimene](./images/06.01.png)
+![Teine](./images/06.02.png)
