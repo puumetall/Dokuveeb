@@ -16,6 +16,7 @@ const blogiSidebar = [
 
 module.exports = {
     title: "Minu veebileht", // appended to all page titles
+    base: "/dokuveeb/",
     themeConfig: {
         nav: [
             {text:"Esileht", link:"/"},
