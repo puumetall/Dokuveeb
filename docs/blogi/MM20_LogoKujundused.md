@@ -6,4 +6,4 @@
 ## MM20 Negatiivne Logo
 ![Kolmas](./images/Negatiivne_logo.png)
 ## MM20 Värviline Logo
-![Neljas](./images/Värviline_logo.png)
+![Neljas](./images/Varviline_logo.png)
