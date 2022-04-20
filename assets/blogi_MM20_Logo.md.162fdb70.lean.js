@@ -1,1 +1,0 @@
-import{_ as a,c as o,o as e,d as t}from"./app.7358d0fa.js";const M='{"title":"MM20 logo","description":"","frontmatter":{},"headers":[],"relativePath":"blogi/MM20_Logo.md","lastUpdated":1649846983662}',_={},i=t("",2),r=[i];function d(s,l,n,c,h,f){return e(),o("div",null,r)}var m=a(_,[["render",d]]);export{M as __pageData,m as default};
