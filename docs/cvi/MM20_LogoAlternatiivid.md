@@ -1,6 +1,4 @@
-# MM20 Logo Kujundused
-## MM20 Logo
-![Esimene](./images/Logo.png)
+# MM20 Logo alternatiivid
 ### MM20 Lihtsustatud Logo
 ![Teine](./images/Lihtsustatud_logo.png)
 ### MM20 Negatiivne Logo

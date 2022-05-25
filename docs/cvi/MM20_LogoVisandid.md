@@ -1,5 +1,4 @@
 # MM20 Logo Visandid
-
 ![Esimene](./images/visand1.jpg)
 ![Teine](./images/visand2.jpg)
 ![Kolmas](./images/visand3.jpg)
