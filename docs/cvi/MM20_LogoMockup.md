@@ -1,2 +1,4 @@
 # MM20 Logo Andmekandjad ja Mock-up'id
-![Kuues](./images/Mock-Up.png)
+![Esimene](./images/MockUp.png)
+![Teine](./images/MockupTshirt.png)
+![Kolmas](./images/tassmockup.png)
